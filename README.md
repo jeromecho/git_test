@@ -1,0 +1,1 @@
+Miyami Kuro's first git project! 
